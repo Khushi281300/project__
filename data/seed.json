@@ -1,0 +1,1905 @@
+{
+ "generatedAt": "2026-10-11",
+ "gccs": [
+  {
+   "company": "T-Mobile",
+   "hq": "United States",
+   "sector": "Telecom",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2026",
+   "focus": "Software engineering, DevOps, product development, data analytics and cybersecurity",
+   "headcount": "Nearly 1,000 planned by 2027",
+   "office": "About 250,000 sq ft leased",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.marketscreener.com/news/t-mobile-opens-india-tech-centre-to-hire-nearly-1-000-by-2027-ce7f5ddcdf89f227",
+     "publisher": "Reuters (via MarketScreener)",
+     "published": "2026-06",
+     "origin": "independent",
+     "supports": "T-Mobile inaugurated a Hyderabad tech centre on 4 June 2026, leasing about 250,000 sq ft and planning nearly 1,000 staff by 2027."
+    },
+    {
+     "url": "https://www.peoplematters.in/news/recruiting-and-onboarding/t-mobile-to-hire-1000-employees-in-hyderabad-as-it-expands-gcc-50117",
+     "publisher": "People Matters",
+     "published": "2026-06",
+     "origin": "independent",
+     "supports": "T-Mobile opened its Hyderabad GCC and plans about 1,000 hires by 2027 across engineering, DevOps, analytics and cybersecurity."
+    }
+   ]
+  },
+  {
+   "company": "Costco",
+   "hq": "United States",
+   "sector": "Retail and Consumer",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "announced",
+   "opened": "",
+   "focus": "Technology and research operations",
+   "headcount": "About 1,000 initially, to scale up",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://finance.yahoo.com/news/us-retail-giant-costco-set-180417937.html",
+     "publisher": "Reuters (via Yahoo Finance)",
+     "published": "2025-07",
+     "origin": "independent",
+     "supports": "Sources say Costco will open its first India technology centre in Hyderabad, starting with 1,000 staff."
+    },
+    {
+     "url": "https://www.peoplematters.in/news/business/costco-to-set-up-global-capability-centre-in-india-to-hire-1000-professionals-42186",
+     "publisher": "People Matters",
+     "published": "2025-07",
+     "origin": "independent",
+     "supports": "Costco plans a Hyderabad GCC with around 1,000 professionals initially; official announcement still awaited."
+    }
+   ]
+  },
+  {
+   "company": "Vanguard",
+   "hq": "United States",
+   "sector": "BFSI",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2025",
+   "focus": "Technology, AI, data and analytics, mobile engineering, digital transformation",
+   "headcount": "Expected to exceed 2,000 within four years",
+   "office": "165,000 sq ft",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.business-standard.com/companies/news/vanguard-global-value-center-hyderabad-125110301174_1.html",
+     "publisher": "Business Standard",
+     "published": "2025-11",
+     "origin": "independent",
+     "supports": "Vanguard launched its 165,000 sq ft Hyderabad centre, inaugurated by Telangana's IT minister; headcount expected to pass 2,000 in four years."
+    },
+    {
+     "url": "https://deccanchronicle.com/southern-states/telangana/vanguard-to-establish-first-india-gcc-in-hyderabad-1870017",
+     "publisher": "Deccan Chronicle",
+     "published": "2025-03",
+     "origin": "independent",
+     "supports": "Vanguard announced its first India GCC in Hyderabad, to open later in 2025 and hire 2,300 over four years."
+    }
+   ]
+  },
+  {
+   "company": "Heineken",
+   "hq": "Netherlands",
+   "sector": "Retail and Consumer",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2026",
+   "focus": "Finance, digital and technology, data and analytics, business process transformation",
+   "headcount": "Over 300 initially, scaling to 1,600",
+   "office": "76,000 sq ft",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.thepeoplesboard.com/?p=17848",
+     "publisher": "The People's Board",
+     "published": "2026-04",
+     "origin": "independent",
+     "supports": "Heineken opened its Hyderabad GCC on 29 April 2026: 76,000 sq ft, 300-plus jobs initially, growing to 1,600."
+    },
+    {
+     "url": "https://www.inside.beer/news/detail/india-heineken-opens-hyderabad-tech-hub",
+     "publisher": "inside.beer",
+     "published": "2026-05",
+     "origin": "independent",
+     "supports": "Heineken officially opened its Hyderabad business services centre covering finance, digital, analytics and process transformation."
+    },
+    {
+     "url": "https://www.peoplematters.in/news/business/heineken-to-set-up-its-first-global-capability-center-in-hyderabad-42281",
+     "publisher": "People Matters",
+     "published": "2025-07",
+     "origin": "independent",
+     "supports": "Heineken said it is setting up its first Asia-Pacific GCC in Hyderabad, with TeamLease Digital supplying staffing support."
+    }
+   ]
+  },
+  {
+   "company": "L'Oréal",
+   "hq": "France",
+   "sector": "Retail and Consumer",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "announced",
+   "opened": "",
+   "focus": "AI-driven beauty innovation, data and generative AI",
+   "headcount": "2,000 tech jobs by 2030",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.esmmagazine.com/technology/loreal-to-invest-383m-in-indian-beauty-tech-hub-304422",
+     "publisher": "Reuters (via ESM Magazine)",
+     "published": "2026-01",
+     "origin": "independent",
+     "supports": "L'Oréal will set up a beauty-tech hub in Hyderabad with over Rs 35 billion initial investment and 2,000 tech jobs through 2030."
+    },
+    {
+     "url": "https://www.cosmeticsdesign-europe.com/Article/2026/01/21/loreal-invests-331m-in-ai-beauty-tech-hub-in-india",
+     "publisher": "CosmeticsDesign-Europe",
+     "published": "2026-01",
+     "origin": "independent",
+     "supports": "L'Oréal and Telangana formalised at Davos a Hyderabad AI beauty-tech hub; over Rs 35 billion invested, 2,000 jobs by 2030."
+    }
+   ]
+  },
+  {
+   "company": "eBay",
+   "hq": "United States",
+   "sector": "Technology",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "status": "operational",
+   "opened": "2025",
+   "focus": "AI/ML, applied research, engineering, product development, data analytics",
+   "headcount": "Designed for over 300 engineers",
+   "office": "65,000 sq ft",
+   "caveat": "eBay has had a Bengaluru development centre for years; 'first India GCC' is the source's wording.",
+   "sources": [
+    {
+     "url": "https://www.cxodigitalpulse.com/?p=36668",
+     "publisher": "CXO Digital Pulse",
+     "published": "2025-08",
+     "origin": "independent",
+     "supports": "eBay inaugurated a 65,000 sq ft Bengaluru centre for 300-plus engineers, described as its first India GCC."
+    }
+   ]
+  },
+  {
+   "company": "Carlsberg",
+   "hq": "Denmark",
+   "sector": "Retail and Consumer",
+   "city": "Gurugram",
+   "state": "Haryana",
+   "status": "operational",
+   "opened": "2025",
+   "focus": "Managed IT services, infrastructure operations, application support",
+   "headcount": "More than 300 in phase 1 across Gurugram and Hyderabad",
+   "office": "",
+   "caveat": "The 300-plus headcount spans Gurugram and Hyderabad.",
+   "sources": [
+    {
+     "url": "https://carlsberggroup.com/newsroom/carlsberg-group-launches-its-first-ever-it-global-capability-centre-in-gurugram",
+     "publisher": "Carlsberg Group",
+     "published": "2025-09",
+     "origin": "company",
+     "supports": "Carlsberg launched its first IT GCC in Gurugram with GSPANN under a build-operate model; 300-plus professionals in phase 1."
+    },
+    {
+     "url": "https://www.outlookbusiness.com/corporate/carlsberg-group-launches-its-first-ever-it-gcc-in-gurugram",
+     "publisher": "Outlook Business (PTI)",
+     "published": "2025-09",
+     "origin": "independent",
+     "supports": "Carlsberg launched its first IT GCC in Gurugram on 3 September 2025; GSPANN manages operations and talent ramp-up."
+    }
+   ]
+  },
+  {
+   "company": "Jaggaer",
+   "hq": "United States",
+   "sector": "Technology",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2025",
+   "focus": "Agentic AI procurement platform, software engineering, cloud operations, IT",
+   "headcount": "About 180 at launch, to grow to 500",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.peoplematters.in/news/business/us-firm-jaggaer-opens-hyderabad-gcc-to-hire-up-to-500-staff-43366",
+     "publisher": "People Matters",
+     "published": "2025-09",
+     "origin": "independent",
+     "supports": "Jaggaer's Hyderabad GCC was inaugurated by Telangana's IT minister, starting with 180 staff and targeting 500."
+    },
+    {
+     "url": "https://www.investmentmonitor.ai/?p=124851",
+     "publisher": "Investment Monitor",
+     "published": "2025-09",
+     "origin": "independent",
+     "supports": "Jaggaer opened a Hyderabad GCC to build its agentic AI platform, with about 180 employees and plans for 500."
+    }
+   ]
+  },
+  {
+   "company": "N-able",
+   "hq": "United States",
+   "sector": "Technology",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "status": "operational",
+   "opened": "2026",
+   "focus": "Engineering, product management, user experience, security operations",
+   "headcount": "Over 100 staff; plans 50% or more growth by end of 2026",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.n-able.com/press/press-releases/n-able-opens-bengaluru-office-to-accelerate-security-innovation-and-talent-growth",
+     "publisher": "N-able",
+     "published": "2026-06",
+     "origin": "company",
+     "supports": "N-able announced the opening of its Bengaluru GCC, employing over 100 with 50%-plus growth planned by end-2026."
+    },
+    {
+     "url": "https://www.storagenewsletter.com/2026/06/30/n-able-opens-bengaluru-office-to-accelerate-security-innovation-and-talent-growth/",
+     "publisher": "StorageNewsletter",
+     "published": "2026-06",
+     "origin": "independent",
+     "supports": "Republished release: N-able opened a Bengaluru GCC supporting engineering, product, UX and security operations with 100-plus staff."
+    }
+   ]
+  },
+  {
+   "company": "Abercrombie & Fitch",
+   "hq": "United States",
+   "sector": "Retail and Consumer",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "status": "operational",
+   "opened": "2026",
+   "focus": "Enterprise-wide capabilities across business functions, beyond technology",
+   "headcount": "",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://m.thewire.in/article/ptiprnews/abercrombie-fitch-co-opens-global-capability-center-in-bengaluru-to-support-continued-global-growth-and-strengthen-enterprise-capabilities",
+     "publisher": "Abercrombie & Fitch press release (PRNewswire via PTI/The Wire)",
+     "published": "2026-08",
+     "origin": "company",
+     "supports": "A&F says it recently opened a Bengaluru GCC to build enterprise capabilities, with ANSR advising on set-up and scaling."
+    },
+    {
+     "url": "https://briefglance.com/articles/beyond-the-moose-af-reengineers-its-core-in-bengaluru",
+     "publisher": "BriefGlance",
+     "published": "2026-08",
+     "origin": "independent",
+     "supports": "Article on A&F's newly opened Bengaluru GCC, built with ANSR, covering data, AI personalisation, digital engineering and supply-chain analytics."
+    }
+   ]
+  },
+  {
+   "company": "LPL Financial",
+   "hq": "United States",
+   "sector": "BFSI",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2026",
+   "focus": "Technology, operations, product development, data and analytics, risk management",
+   "headcount": "About 30 at launch; around 700 planned within the year",
+   "office": "Temporary space at Prestige Sky Tech Tower 1, Nanakramguda; permanent campus in Tower 2 by early 2027",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://yourstory.com/enterprise-story/2026/04/us-wealth-management-firm-lpl-financial-opens-gcc-in-hyderabad",
+     "publisher": "YourStory",
+     "published": "2026-04",
+     "origin": "independent",
+     "supports": "LPL Financial opened a Hyderabad GCC covering technology, operations, product, data and risk functions."
+    },
+    {
+     "url": "https://www.uniindia.com/news/business-economy/business-lpl-finance-new-gcc-hyderabad/3811592.html",
+     "publisher": "UNI",
+     "published": "2026-04",
+     "origin": "independent",
+     "supports": "LPL inaugurated its first India GCC in Hyderabad's Financial District with about 30 staff, aiming for roughly 700."
+    }
+   ]
+  },
+  {
+   "company": "BASF",
+   "hq": "Germany",
+   "sector": "Manufacturing and Automotive",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "announced",
+   "opened": "2026",
+   "focus": "Standardised global digital services for BASF businesses",
+   "headcount": "",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.basf.com/global/en/media/news-releases/2026/01/p-26-012",
+     "publisher": "BASF",
+     "published": "2026-01",
+     "origin": "company",
+     "supports": "BASF plans to open a global digital hub in Hyderabad in Q1 2026 under new entity BASF Digital Solutions Private Limited."
+    },
+    {
+     "url": "https://hydrocarbonprocessing.com/news/2026/01/basf-to-open-global-digital-hub-in-india-in-q1-2026/",
+     "publisher": "Hydrocarbon Processing",
+     "published": "2026-01",
+     "origin": "independent",
+     "supports": "BASF intends to open a Hyderabad digital hub in Q1 2026, complementing hubs in Ludwigshafen, Madrid and Kuala Lumpur."
+    }
+   ]
+  },
+  {
+   "company": "CIBC",
+   "hq": "Canada",
+   "sector": "BFSI",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "announced",
+   "opened": "2026",
+   "focus": "Banking technology, data analytics, cloud, cybersecurity, AI",
+   "headcount": "More than 2,000 jobs expected",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.hrkatha.com/news/cibc-to-establish-hyderabad-gcc-creating-2000-jobs/",
+     "publisher": "HR Katha",
+     "published": "2026-06",
+     "origin": "independent",
+     "supports": "CIBC is set to launch a Hyderabad GCC from July 2026, with Telangana officials citing over 2,000 jobs."
+    },
+    {
+     "url": "https://news.outsourceaccelerator.com/canadas-cibc-nestle-hyderabad/",
+     "publisher": "Outsource Accelerator",
+     "published": "2026-06",
+     "origin": "independent",
+     "supports": "CIBC's first India GCC targets a July 2026 launch in Hyderabad with 2,000-plus staff, built through ANSR."
+    }
+   ]
+  },
+  {
+   "company": "Charles Schwab",
+   "hq": "United States",
+   "sector": "BFSI",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2026",
+   "focus": "Technology development, engineering and operations for the US business",
+   "headcount": "About 2,000 planned by end of 2027",
+   "office": "About 345,000 sq ft (3.45 lakh sq ft)",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.outlookbusiness.com/corporate/us-financial-services-firm-charles-schwab-opens-technology-capability-centre-in-hyderabad",
+     "publisher": "Outlook Business",
+     "published": "2026-08",
+     "origin": "independent",
+     "supports": "Schwab opened a 3.45 lakh sq ft Hyderabad technology centre, inaugurated by Telangana's IT minister; 2,000 staff targeted by end-2027."
+    },
+    {
+     "url": "https://www.etvbharat.com/en/state/us-financial-services-giant-charles-schwab-opens-india-facility-in-hyderabad-enn26082003112",
+     "publisher": "ETV Bharat",
+     "published": "2026-08",
+     "origin": "independent",
+     "supports": "Schwab's Hyderabad facility was inaugurated; contractor-run tech work will move in-house, with about 2,000 employees by end-2027."
+    }
+   ]
+  },
+  {
+   "company": "Stolt-Nielsen",
+   "hq": "",
+   "sector": "Logistics",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "",
+   "focus": "Product development, DevOps, data engineering and AI",
+   "headcount": "",
+   "office": "",
+   "caveat": "Opening year and headquarters country are not stated in the sources.",
+   "sources": [
+    {
+     "url": "https://www.stolt-nielsen.com/news-insights/news/innovation-that-moves-us-forward-digital-innovation-centre-in-hyderabad-fully-operational/",
+     "publisher": "Stolt-Nielsen",
+     "published": "2026-04",
+     "origin": "company",
+     "supports": "Stolt-Nielsen says its Hyderabad Digital Innovation Centre is fully operational, working on product development, DevOps, data engineering and AI."
+    },
+    {
+     "url": "https://www.m9.news/politics/hyderabad-gcc-boom-4-new-centres-2025-update/",
+     "publisher": "M9 News",
+     "published": "2025-12",
+     "origin": "independent",
+     "supports": "Lists Stolt-Nielsen, a bulk-liquid logistics group, among four new GCCs coming to Hyderabad."
+    }
+   ]
+  },
+  {
+   "company": "McDonald's",
+   "hq": "United States",
+   "sector": "Retail and Consumer",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "announced",
+   "opened": "2025",
+   "focus": "Global business services (global office)",
+   "headcount": "More than 2,000 over the next few years",
+   "office": "About 200,000 sq ft",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.nrn.com/quick-service/mcdonald-s-opens-a-global-capacity-center-in-india",
+     "publisher": "Nation's Restaurant News",
+     "published": "2025-03",
+     "origin": "independent",
+     "supports": "McDonald's Hyderabad centre, about 200,000 sq ft, expected operational by April 2025 with 2,000-plus hires over a few years."
+    },
+    {
+     "url": "https://www.newsonair.gov.in/telangana-signs-mou-with-mcdonalds-to-establish-global-capability-centre-in-hyderabad",
+     "publisher": "All India Radio News (newsonair.gov.in)",
+     "published": "2025-03",
+     "origin": "government",
+     "supports": "Telangana signed an MoU with McDonald's for a Hyderabad GCC that will initially employ 2,000 people."
+    }
+   ]
+  },
+  {
+   "company": "Toast",
+   "hq": "United States",
+   "sector": "Technology",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "status": "operational",
+   "opened": "2026",
+   "focus": "Engineering, product development, fintech, AI/ML, customer care, finance",
+   "headcount": "",
+   "office": "64,000 sq ft at RMZ Ecoworld",
+   "caveat": "The source calls this a global technology center, not a GCC.",
+   "sources": [
+    {
+     "url": "https://digitalterminal.in/amp/story/tech-companies/toast-opens-new-bengaluru-office-to-strengthen-global-technology-capabilities",
+     "publisher": "Digital Terminal",
+     "published": "2026-01",
+     "origin": "independent",
+     "supports": "Toast inaugurated a 64,000 sq ft Bengaluru technology centre at RMZ Ecoworld; it has had an India presence since 2022."
+    }
+   ]
+  },
+  {
+   "company": "The Hartford",
+   "hq": "United States",
+   "sector": "BFSI",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2025",
+   "focus": "AI, digital innovation, insurance technology engineering",
+   "headcount": "",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.theweek.in/wire-updates/national/2025/09/30/mes15-tl-ai-innovation-hartford.html",
+     "publisher": "PTI (via The Week)",
+     "published": "2025-09",
+     "origin": "independent",
+     "supports": "The Hartford announced the opening of its India Technology Center in Hyderabad, focused on AI and digital capabilities."
+    },
+    {
+     "url": "https://www.outlookbusiness.com/corporate/the-hartford-announces-launch-of-technology-center-in-hyderabad",
+     "publisher": "Outlook Business (PTI)",
+     "published": "2025-09",
+     "origin": "independent",
+     "supports": "The Hartford announced the launch of a Hyderabad technology centre, hiring for AI, data science, cloud and digital engineering."
+    }
+   ]
+  },
+  {
+   "company": "Rapid7",
+   "hq": "United States",
+   "sector": "Technology",
+   "city": "Pune",
+   "state": "Maharashtra",
+   "status": "announced",
+   "opened": "2025",
+   "focus": "Security operations centre, cyber product and service innovation",
+   "headcount": "",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://s29.q4cdn.com/157304370/files/doc_news/Rapid7-Announces-Global-Capability-Center-in-India-2025.pdf",
+     "publisher": "Rapid7",
+     "published": "2025-03",
+     "origin": "company",
+     "supports": "Rapid7 announced a GCC in Pune scheduled to open April 2025, serving as an innovation hub and security operations centre."
+    },
+    {
+     "url": "https://www.crnasia.com/news/2025/vendor/rapid7-expands-to-india",
+     "publisher": "CRN Asia",
+     "published": "2025-03",
+     "origin": "independent",
+     "supports": "Rapid7's Pune GCC, opening April 2025, will house technology, security operations, support and IT teams."
+    }
+   ]
+  },
+  {
+   "company": "The Magnum Ice Cream Company",
+   "hq": "Netherlands",
+   "sector": "Retail and Consumer",
+   "city": "Pune",
+   "state": "Maharashtra",
+   "status": "operational",
+   "opened": "2026",
+   "focus": "Finance, procurement, supply chain, marketing, master data; AI and automation",
+   "headcount": "",
+   "office": "67,000 sq ft",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://news.magnumicecream.com/the-magnum-ice-cream-company-inaugurates-new-global-capability-centre-in-pune/",
+     "publisher": "The Magnum Ice Cream Company",
+     "published": "2026-09",
+     "origin": "company",
+     "supports": "TMICC inaugurated a 67,000 sq ft Pune GCC on 4 September 2026, following an April 2025 MoU with Maharashtra."
+    },
+    {
+     "url": "https://www.foodbev.com/news/magnum-ice-cream-company-opens-67-000-sq-ft-global-capability-centre-in-pune",
+     "publisher": "FoodBev Media",
+     "published": "2026-09",
+     "origin": "independent",
+     "supports": "Magnum Ice Cream Company opened a 67,000 sq ft Pune centre, attended by Maharashtra's chief minister."
+    }
+   ]
+  },
+  {
+   "company": "Generac",
+   "hq": "United States",
+   "sector": "Manufacturing and Automotive",
+   "city": "Pune",
+   "state": "Maharashtra",
+   "status": "operational",
+   "opened": "2026",
+   "focus": "Engineering, technology and business operations",
+   "headcount": "Designed for more than 150 professionals",
+   "office": "21,494 sq ft",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://themachinemaker.com/news/generac-launches-india-gcc-in-pune/",
+     "publisher": "The Machine Maker",
+     "published": "2026-06",
+     "origin": "independent",
+     "supports": "Generac inaugurated its first India GCC in Pune, a 21,494 sq ft centre for 150-plus professionals."
+    }
+   ]
+  },
+  {
+   "company": "Milacron",
+   "hq": "United States",
+   "sector": "Manufacturing and Automotive",
+   "city": "Coimbatore",
+   "state": "Tamil Nadu",
+   "status": "operational",
+   "opened": "2026",
+   "focus": "Engineering and innovation, local customer support",
+   "headcount": "Over 60 engineers",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.milacron.com/news/milacron-inaugurates-its-first-global-capability-center-in-coimbatore-india/",
+     "publisher": "Milacron",
+     "published": "2026-07",
+     "origin": "company",
+     "supports": "Milacron inaugurated its first GCC in Coimbatore on 20 July 2026 with over 60 engineers."
+    },
+    {
+     "url": "https://interplasinsights.com/plastics-industry-news/latest-plastics-industry-news/milacron-inaugurates-iglobal-capability-centre-india/",
+     "publisher": "Interplas Insights",
+     "published": "2026-09",
+     "origin": "independent",
+     "supports": "Milacron inaugurated a Coimbatore GCC with a team of over 60 engineers."
+    }
+   ]
+  },
+  {
+   "company": "Ford",
+   "hq": "United States",
+   "sector": "Manufacturing and Automotive",
+   "city": "Coimbatore",
+   "state": "Tamil Nadu",
+   "status": "operational",
+   "opened": "2026",
+   "focus": "Ford Business Solutions: accounting, Ford Credit, business services",
+   "headcount": "Capacity for more than 800 employees",
+   "office": "82,000 sq ft at SVB Tech Park",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.dtnext.in/news/business/ford-business-solutions-expands-to-coimbatore-bolsters-global-operations",
+     "publisher": "DT Next",
+     "published": "2026-07",
+     "origin": "independent",
+     "supports": "Ford Business Solutions India opened an 82,000 sq ft Coimbatore facility with room for 800-plus employees."
+    },
+    {
+     "url": "https://www.deccanherald.com/business/companies/ford-business-solutions-opens-office-in-coimbatore-to-expand-india-hub-operations-4066805",
+     "publisher": "Deccan Herald",
+     "published": "2026-07",
+     "origin": "independent",
+     "supports": "Ford opened its third India office in Coimbatore for accounting, Ford Credit and business services."
+    }
+   ]
+  },
+  {
+   "company": "Starbucks",
+   "hq": "United States",
+   "sector": "Retail and Consumer",
+   "city": "Chennai",
+   "state": "Tamil Nadu",
+   "status": "announced",
+   "opened": "",
+   "focus": "Technology",
+   "headcount": "About 800 technology jobs",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/starbucks-to-open-global-capability-centre-in-chennai-1989247",
+     "publisher": "Deccan Chronicle (ANI)",
+     "published": "2026-09",
+     "origin": "independent",
+     "supports": "Starbucks signed an MoU with Tamil Nadu for its first India GCC in Chennai, creating about 800 tech jobs."
+    },
+    {
+     "url": "https://www.peoplematters.in/news/business/starbucks-to-establish-its-first-gcc-in-india-at-chennai-52227",
+     "publisher": "People Matters (PTI)",
+     "published": "2026-09",
+     "origin": "independent",
+     "supports": "Starbucks and Guidance Tamil Nadu signed an MoU for a Chennai GCC with 800 technology jobs, separate from the Tata venture."
+    }
+   ]
+  },
+  {
+   "company": "Walgreens",
+   "hq": "United States",
+   "sector": "Healthcare and Pharma",
+   "city": "Chennai",
+   "state": "Tamil Nadu",
+   "status": "announced",
+   "opened": "",
+   "focus": "Technology and business services",
+   "headcount": "More than 250 jobs in the first year",
+   "office": "To be located at DLF Downtown, Taramani",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/us-healthcare-firm-walgreens-signs-mou-with-tamil-nadu-govt-1988444",
+     "publisher": "Deccan Chronicle",
+     "published": "2026-09",
+     "origin": "independent",
+     "supports": "Walgreens India signed an MoU with Tamil Nadu for a GCC at DLF Downtown Taramani, employing 250 in year one."
+    },
+    {
+     "url": "https://www.newsbytesapp.com/news/business/walgreens-to-open-1st-global-capability-center-in-chennai/tldr",
+     "publisher": "NewsBytes",
+     "published": "2026-09",
+     "origin": "independent",
+     "supports": "Walgreens is to open its first GCC in Chennai at DLF Downtown Taramani with 250-plus first-year jobs."
+    }
+   ]
+  },
+  {
+   "company": "NTT DATA Business Solutions",
+   "hq": "",
+   "sector": "Technology",
+   "city": "Visakhapatnam",
+   "state": "Andhra Pradesh",
+   "status": "operational",
+   "opened": "2026",
+   "focus": "SAP-focused delivery and engineering",
+   "headcount": "About 300 at launch; 2,000 to 3,000 targeted as it scales",
+   "office": "IT Hills-2, Rushikonda",
+   "caveat": "Headquarters country is not stated in the source.",
+   "sources": [
+    {
+     "url": "https://www.cxodigitalpulse.com/?p=57923",
+     "publisher": "CXO Digital Pulse",
+     "published": "2026-07",
+     "origin": "independent",
+     "supports": "NTT DATA Business Solutions, with Proven Tech, began operations in Visakhapatnam with about 300 professionals, targeting 2,000-3,000."
+    }
+   ]
+  },
+  {
+   "company": "NOV",
+   "hq": "United States",
+   "sector": "Energy",
+   "city": "Kochi",
+   "state": "Kerala",
+   "status": "operational",
+   "opened": "2024",
+   "focus": "Software engineering, corporate digital services, customer support",
+   "headcount": "About 70 at opening, aiming to double",
+   "office": "17,000 sq ft at Lulu Cyber Tower 2, Infopark",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://onmanorama.com/news/business/2024/11/19/us-based-energy-major-nov-first-digital-technology-centre-infopark-kochi.html",
+     "publisher": "Onmanorama",
+     "published": "2024-11",
+     "origin": "independent",
+     "supports": "NOV opened a 17,000 sq ft digital technology centre at Infopark Kochi with about 70 professionals, inaugurated by Kerala's industries minister."
+    }
+   ]
+  },
+  {
+   "company": "JPMorgan Chase",
+   "hq": "United States",
+   "sector": "BFSI",
+   "city": "Mumbai",
+   "state": "Maharashtra",
+   "status": "operational",
+   "opened": "2002",
+   "focus": "Technology and business operations",
+   "headcount": "More than 55,000 in India",
+   "office": "New 2 million sq ft Powai campus for about 30,000 planned by 2029",
+   "caveat": "Centres span Mumbai, Bengaluru and Hyderabad; headcount and start year are India-wide.",
+   "sources": [
+    {
+     "url": "https://www.stockopedia.com/share-prices/wells-fargo-co-NYQ:WFC/news/factbox-india-apos-s-largest-banking-and-financial-services-tech-hubs-019e6dd4-a268-715b-bbcc-7dc90c1aee65/",
+     "publisher": "Reuters (via Stockopedia)",
+     "published": "2026-05",
+     "origin": "independent",
+     "supports": "Factbox: JPMorgan has more than 55,000 India employees, with India operations dating from 2002."
+    },
+    {
+     "url": "https://www.peoplematters.in/news/business/jpmorgan-plans-asias-largest-gcc-in-mumbai-with-30000-employees-47772",
+     "publisher": "People Matters",
+     "published": "2025-12",
+     "origin": "independent",
+     "supports": "JPMorgan plans a 2 million sq ft Powai, Mumbai GCC campus for around 30,000 staff, due by 2029."
+    },
+    {
+     "url": "https://jpmorganchase.com/communities/india",
+     "publisher": "JPMorgan Chase",
+     "published": "",
+     "origin": "company",
+     "supports": "JPMorgan's corporate centres in Mumbai, Bengaluru and Hyderabad support its global technology and business operations."
+    }
+   ]
+  },
+  {
+   "company": "Walmart Global Tech",
+   "hq": "United States",
+   "sector": "Retail and Consumer",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "status": "operational",
+   "opened": "",
+   "focus": "Data engineering, AI, cloud computing, cybersecurity",
+   "headcount": "4,500 expected at the second centre in Chennai",
+   "office": "1 million sq ft leased in Bengaluru; 465,000 sq ft in Chennai",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://english.punjabkesari.com/india/2025/04/17/walmart-expands-in-india-with-new-tech-hub-in-chennai",
+     "publisher": "Punjab Kesari (English)",
+     "published": "2025-04",
+     "origin": "independent",
+     "supports": "Walmart is adding a second GCC in Chennai (465,000 sq ft, 4,500 staff) alongside its 1 million sq ft Bengaluru centre."
+    }
+   ]
+  },
+  {
+   "company": "Target",
+   "hq": "United States",
+   "sector": "Retail and Consumer",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "status": "operational",
+   "opened": "2005",
+   "focus": "Supply chain, engineering, analytics, customer experience, marketing",
+   "headcount": "About 5,500 employees (August 2025)",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://startuptalky.com/news/target-lays-off-150-employees-in-india/",
+     "publisher": "StartupTalky",
+     "published": "2025-10",
+     "origin": "independent",
+     "supports": "Target's Bengaluru GCC, opened over 20 years ago, had about 5,500 staff; 150 roles were cut."
+    },
+    {
+     "url": "https://ansr.com/case-study/retail/stores-supermarket/target/",
+     "publisher": "ANSR",
+     "published": "",
+     "origin": "provider",
+     "supports": "ANSR says it partnered with Target in 2005 to establish the retailer's Bengaluru capability centre."
+    },
+    {
+     "url": "https://www.constructionworld.in/latest-construction-news/real-estate-news/target-india-signs-rs12.5-bn-bengaluru-office-lease-for-gcc-expansion/93525",
+     "publisher": "Construction World",
+     "published": "2026-06",
+     "origin": "independent",
+     "supports": "Target India leased about 831,000 sq ft at Embassy Manyata Business Park from Embassy REIT for ten years for GCC expansion."
+    },
+    {
+     "url": "https://askfuzz.ai/discover/news/real-estate/embassy-reit-secures-1-250-cr-target-lease-deal",
+     "publisher": "AskFuzz",
+     "published": "",
+     "origin": "independent",
+     "supports": "Headline reports Embassy REIT securing a Rs 1,250 crore lease deal with Target."
+    }
+   ]
+  },
+  {
+   "company": "Goldman Sachs",
+   "hq": "United States",
+   "sector": "BFSI",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "status": "operational",
+   "opened": "2004",
+   "focus": "Engineering, finance, human capital management, banking operations",
+   "headcount": "Over 9,000 across Bengaluru and Hyderabad",
+   "office": "Hyderabad office (since 2021): 3.51 lakh sq ft, capacity about 2,500",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.goldmansachs.com/pressroom/press-releases/2023/goldman-sachs-opens-new-hyderabad-office",
+     "publisher": "Goldman Sachs",
+     "published": "2023-10",
+     "origin": "company",
+     "supports": "Goldman says Bengaluru was established in 2004; Bengaluru and Hyderabad together have over 9,000 professionals; new Hyderabad office is 3.51 lakh sq ft."
+    },
+    {
+     "url": "https://www.stockopedia.com/share-prices/wells-fargo-co-NYQ:WFC/news/factbox-india-apos-s-largest-banking-and-financial-services-tech-hubs-019e6dd4-a268-715b-bbcc-7dc90c1aee65/",
+     "publisher": "Reuters (via Stockopedia)",
+     "published": "2026-05",
+     "origin": "independent",
+     "supports": "Factbox: Goldman Sachs has roughly 9,000 staff in Bengaluru (since 2004) and Hyderabad (since 2021)."
+    }
+   ]
+  },
+  {
+   "company": "Wells Fargo",
+   "hq": "United States",
+   "sector": "BFSI",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2006",
+   "focus": "",
+   "headcount": "Over 30,000 across its India centres (Reuters, May 2026)",
+   "office": "Chennai centre closing by 2027; consolidating in Bengaluru and Hyderabad",
+   "caveat": "Also operates in Bengaluru. Sources disagree on headcount (10,000 to over 30,000).",
+   "sources": [
+    {
+     "url": "https://www.stockopedia.com/share-prices/wells-fargo-co-NYQ:WFC/news/factbox-india-apos-s-largest-banking-and-financial-services-tech-hubs-019e6dd4-a268-715b-bbcc-7dc90c1aee65/",
+     "publisher": "Reuters (via Stockopedia)",
+     "published": "2026-05",
+     "origin": "independent",
+     "supports": "Factbox: Wells Fargo, in India since 2006, has over 30,000 staff; Chennai closes by 2027, consolidating into Bengaluru and Hyderabad."
+    },
+    {
+     "url": "https://www.peoplematters.in/news/business/wells-fargo-to-shut-chennai-gcc-employees-asked-to-relocate-to-bengaluru-or-hyderabad-45470",
+     "publisher": "People Matters",
+     "published": "2025-05",
+     "origin": "independent",
+     "supports": "Wells Fargo is shutting its Chennai GCC and asking staff to relocate to Bengaluru or Hyderabad."
+    }
+   ]
+  },
+  {
+   "company": "Lowe's",
+   "hq": "United States",
+   "sector": "Retail and Consumer",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "status": "operational",
+   "opened": "2014",
+   "focus": "Technology, analytics and shared services for e-commerce, supply chain and stores",
+   "headcount": "About 5,000 employees (provider profile)",
+   "office": "Manyata Embassy Business Park",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://corporate.lowes.com/newsroom/press-releases/lowes-announces-james-brandt-managing-director-lowes-india-05-05-17",
+     "publisher": "Lowe's",
+     "published": "2017-05",
+     "origin": "company",
+     "supports": "Lowe's India, based in Bengaluru, began in 2014 and had over 900 employees in 2017 across technology, analytics and shared services."
+    },
+    {
+     "url": "https://www.businessofgcc.com/gcc-data/companies/lowes-companies-india-bangalore",
+     "publisher": "Business of GCC",
+     "published": "",
+     "origin": "provider",
+     "supports": "Directory profile lists Lowe's India in Bangalore with about 5,000 employees at Manyata Embassy Business Park."
+    }
+   ]
+  },
+  {
+   "company": "Shell",
+   "hq": "United Kingdom",
+   "sector": "Energy",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "status": "operational",
+   "opened": "2017",
+   "focus": "R&D: LNG, subsurface modelling, data analysis, engineering design, computational research",
+   "headcount": "Up to 1,500 experts",
+   "office": "52-acre campus",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://worldoil.com/news/2017/3/31/shell-opens-new-technology-center-in-bangalore-india/",
+     "publisher": "World Oil",
+     "published": "2017-03",
+     "origin": "independent",
+     "supports": "Shell opened a technology centre on a 52-acre Bangalore campus housing up to 1,500 experts."
+    },
+    {
+     "url": "https://www.thechemicalengineer.com/news/shell-opens-bangalore-technology-centre/",
+     "publisher": "The Chemical Engineer",
+     "published": "2017-04",
+     "origin": "independent",
+     "supports": "Shell opened its Bangalore technology centre for up to 1,500 technology experts, including a waste-to-fuel demonstration plant."
+    }
+   ]
+  },
+  {
+   "company": "Mercedes-Benz Research and Development India",
+   "hq": "Germany",
+   "sector": "Manufacturing and Automotive",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "status": "operational",
+   "opened": "1996",
+   "focus": "Research, IT and product development; digitalisation, simulation, data science",
+   "headcount": "About 9,000 engineers in India (2023)",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.investmentmonitor.ai/news/mercedes-benz-announces-creation-of-1000-rd-jobs-in-india",
+     "publisher": "Investment Monitor",
+     "published": "2023-06",
+     "origin": "independent",
+     "supports": "Mercedes-Benz's Bengaluru R&D centre, its largest outside Germany, employs about 9,000 engineers and plans 1,000 more hires."
+    },
+    {
+     "url": "https://www.automotiveworld.com/news/mercedes-benz-research-development-india-20-years-mercedes-benz-rd-india/",
+     "publisher": "Automotive World",
+     "published": "2016-11",
+     "origin": "independent",
+     "supports": "MBRDI was founded in Bangalore in 1996 and had about 3,500 employees at its 20-year mark."
+    }
+   ]
+  },
+  {
+   "company": "Ferguson",
+   "hq": "United States",
+   "sector": "Other",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "status": "operational",
+   "opened": "2025",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.inddist.com/company-expansion-consolidation/news/22943885/ferguson-opens-india-global-capability-center",
+     "publisher": "Industrial Distribution",
+     "published": "2025-06",
+     "origin": "independent",
+     "supports": "Ferguson opened a Bengaluru capability centre built with ANSR and branded as powered by ANSR."
+    },
+    {
+     "url": "https://www.mdm.com/news/top-distributor-sectors/building-materials-construction/ferguson-launches-global-capability-center-in-india-tech-hub/",
+     "publisher": "Modern Distribution Management",
+     "published": "2025-06",
+     "origin": "independent",
+     "supports": "Ferguson launched its Bengaluru centre, built in partnership with GCC specialist ANSR."
+    }
+   ]
+  },
+  {
+   "company": "Marriott International",
+   "hq": "United States",
+   "sector": "Other",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "announced",
+   "opened": "2025",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "Planned to be fully operational in early 2025; no page confirming the opening was found.",
+   "sources": [
+    {
+     "url": "https://www.investmentmonitor.ai/?p=118668",
+     "publisher": "Investment Monitor",
+     "published": "2024-10",
+     "origin": "independent",
+     "supports": "Marriott Tech Accelerator, its Hyderabad GCC, is to be managed by ANSR and fully operational in early 2025."
+    },
+    {
+     "url": "https://ansr.com/press-releases/ansr-to-support-launch-of-marriott-tech-accelerator-a-global-capability-center-in-hyderabad",
+     "publisher": "ANSR",
+     "published": "2024-10",
+     "origin": "provider",
+     "supports": "ANSR announces it will support the launch of Marriott's Hyderabad GCC."
+    }
+   ]
+  },
+  {
+   "company": "Deutsche Börse Group",
+   "hq": "Germany",
+   "sector": "BFSI",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2025",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.theweek.in/wire-updates/business/2025/08/21/dcm32-ansr.html",
+     "publisher": "The Week (PTI / PRNewswire release)",
+     "published": "2025-08",
+     "origin": "company",
+     "supports": "Deutsche Börse inaugurated a Hyderabad GCC office and is partnering with ANSR to establish and scale it."
+    }
+   ]
+  },
+  {
+   "company": "Inovalon",
+   "hq": "United States",
+   "sector": "Healthcare and Pharma",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2022",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "The source calls this an India Development Center, not a GCC.",
+   "sources": [
+    {
+     "url": "https://cxotoday.com/press-release/inovalon-expands-global-reach-with-opening-of-india-development-center-in-hyderabad/",
+     "publisher": "CXOToday (press release)",
+     "published": "2022-09",
+     "origin": "company",
+     "supports": "Inovalon opened an India Development Center in Hyderabad that ANSR helped set up."
+    }
+   ]
+  },
+  {
+   "company": "Nestlé",
+   "hq": "Switzerland",
+   "sector": "Retail and Consumer",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "announced",
+   "opened": "2026",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "2026 is the planned date.",
+   "sources": [
+    {
+     "url": "https://www.cxodigitalpulse.com/nestle-business-services-to-launch-first-india-gcc-in-hyderabad-with-genpact/",
+     "publisher": "CXO Digitalpulse",
+     "published": "2026-07",
+     "origin": "independent",
+     "supports": "Nestlé's business services arm plans its first India GCC in Hyderabad this year, in partnership with Genpact."
+    },
+    {
+     "url": "https://www.techmarketview.com/ukhotviews/archive/2026/07/15/genpact-lands-nestl-gcc-partnership",
+     "publisher": "TechMarketView",
+     "published": "2026-07",
+     "origin": "independent",
+     "supports": "Analyst note headline reports Genpact winning a GCC partnership with Nestlé."
+    },
+    {
+     "url": "https://media.genpact.com/2026-07-09-Genpact-Partners-with-Nestle-Business-Solutions-to-Establish-New-Global-Capability-Center?asPDF=1",
+     "publisher": "Genpact",
+     "published": "2026-07",
+     "origin": "provider",
+     "supports": "Genpact says it is partnering with Nestlé Business Solutions to establish a new GCC based in Hyderabad."
+    }
+   ]
+  },
+  {
+   "company": "Western Union",
+   "hq": "United States",
+   "sector": "BFSI",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2026",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://deccanchronicle.com/southern-states/telangana/western-union-to-open-hyderabad-gcc-1923335",
+     "publisher": "Deccan Chronicle",
+     "published": "2025-12",
+     "origin": "independent",
+     "supports": "Western Union's Hyderabad centre, its second in India, is being developed with HCLTech on a build-operate-transfer model."
+    },
+    {
+     "url": "https://www.deccanchronicle.com/business/companies/western-union-hcltech-expand-global-capability-center-to-hyderabad-1933291",
+     "publisher": "Deccan Chronicle",
+     "published": "2026-01",
+     "origin": "independent",
+     "supports": "Western Union launched the Hyderabad GCC in collaboration with HCLTech, alongside its existing Pune tech centre."
+    },
+    {
+     "url": "https://www.hcltech.com/press-releases/western-union-and-hcltech-expand-global-capability-center-hyderabad-accelerating",
+     "publisher": "HCLTech",
+     "published": "2026-01",
+     "origin": "provider",
+     "supports": "HCLTech and Western Union announce the Hyderabad GCC as a strategic partnership using HCLTech AI solutions."
+    }
+   ]
+  },
+  {
+   "company": "GI Outsourcing",
+   "hq": "United Kingdom",
+   "sector": "Other",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2026",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.accountancytoday.co.uk/2026/02/04/new-ai-first-centre-strengthens-gi-outsourcings-india-footprint/",
+     "publisher": "Accountancy Today",
+     "published": "2026-02",
+     "origin": "independent",
+     "supports": "GI Outsourcing opened a Hyderabad GCC at International Tech Park; Covasant's Enablr partnered on the setup."
+    },
+    {
+     "url": "https://www.internationalaccountingbulletin.com/news/gi-outsourcing-opens-global/",
+     "publisher": "International Accounting Bulletin",
+     "published": "2026-02",
+     "origin": "independent",
+     "supports": "Enablr helped GI Outsourcing take its Hyderabad centre from planning to operation."
+    }
+   ]
+  },
+  {
+   "company": "Truist Financial",
+   "hq": "United States",
+   "sector": "BFSI",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "announced",
+   "opened": "",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.outlookbusiness.com/corporate/infosys-bags-500-mn-truist-deal-for-hyderabad-gcc-it-wont-own",
+     "publisher": "Outlook Business",
+     "published": "2026-04",
+     "origin": "independent",
+     "supports": "Infosys will set up and run a Hyderabad GCC for Truist for five years, then transfer it; deal reported above $500 million."
+    },
+    {
+     "url": "https://www.peoplematters.in/news/business/infosys-lands-dollar500-million-gcc-deal-to-hire-4500-employees-in-hyderabad-49557",
+     "publisher": "People Matters",
+     "published": "2026-05",
+     "origin": "independent",
+     "supports": "Infosys builds and operates Truist's Hyderabad centre before handing over; about 4,500 staff planned over time."
+    }
+   ]
+  },
+  {
+   "company": "Lufthansa Group",
+   "hq": "Germany",
+   "sector": "Logistics",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "status": "announced",
+   "opened": "",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.angelone.in/news/stocks-share-market/infosys-lufthansa-group-partner-to-launch-gcc-in-bengaluru-for-aviation-technology",
+     "publisher": "Angel One",
+     "published": "2025-02",
+     "origin": "independent",
+     "supports": "Infosys and Lufthansa Systems are establishing a GCC in Bengaluru for aviation software and product development."
+    },
+    {
+     "url": "https://cwv.yourstory.com/enterprise-story/2025/02/infosys-lufthansa-group-to-set-up-gcc-in-bengaluru",
+     "publisher": "YourStory",
+     "published": "2025-02",
+     "origin": "independent",
+     "supports": "Headline reports Infosys and Lufthansa Group setting up a GCC in Bengaluru."
+    }
+   ]
+  },
+  {
+   "company": "Polestar",
+   "hq": "Sweden",
+   "sector": "Manufacturing and Automotive",
+   "city": "Bengaluru",
+   "state": "Karnataka",
+   "status": "operational",
+   "opened": "2024",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "Sources call this a technology hub, not a GCC.",
+   "sources": [
+    {
+     "url": "https://verdict.co.uk/?p=378696",
+     "publisher": "Verdict",
+     "published": "2024-09",
+     "origin": "independent",
+     "supports": "Infosys and Polestar are setting up a dedicated technology hub in Bengaluru for EV software development."
+    },
+    {
+     "url": "https://india.entrepreneur.com/?p=81786",
+     "publisher": "Entrepreneur India",
+     "published": "2025-05",
+     "origin": "independent",
+     "supports": "Lists Infosys-Polestar Bengaluru hub among dedicated client tech hubs set up by IT services firms."
+    }
+   ]
+  },
+  {
+   "company": "Citizens Financial Group",
+   "hq": "United States",
+   "sector": "BFSI",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2025",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.outlookbusiness.com/corporate/citizens-financial-group-launches-hyderabad-gcc-in-partnership-with-cognizant",
+     "publisher": "Outlook Business",
+     "published": "2025-04",
+     "origin": "independent",
+     "supports": "Citizens launched a Hyderabad GCC with Cognizant, housed on Cognizant's campus, targeting 1,000 staff by March 2026."
+    },
+    {
+     "url": "https://analyticsindiamag.com/ai-news-updates/citizens-financial-expands-to-india-with-hyderabad-gcc-in-partnership-with-cognizant",
+     "publisher": "Analytics India Magazine",
+     "published": "",
+     "origin": "independent",
+     "supports": "Headline reports Citizens Financial entering India with a Hyderabad GCC in partnership with Cognizant."
+    },
+    {
+     "url": "https://news.cognizant.com/Citizens-Financial-Group-Partners-with-Cognizant-to-Open-Global-Capability-Center-in-Hyderabad",
+     "publisher": "Cognizant",
+     "published": "2025-04",
+     "origin": "provider",
+     "supports": "Cognizant will build and operate the Citizens GCC in Hyderabad; BCG provides programme governance."
+    }
+   ]
+  },
+  {
+   "company": "Goodyear",
+   "hq": "United States",
+   "sector": "Manufacturing and Automotive",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "announced",
+   "opened": "",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "Reported by two outlets; no company confirmation found.",
+   "sources": [
+    {
+     "url": "https://techstory.in/tech-mahindra-to-build-3000-strong-gcc-for-goodyear-in-hyderabad/",
+     "publisher": "TechStory",
+     "published": "2025-02",
+     "origin": "independent",
+     "supports": "Reports Tech Mahindra will establish and run a roughly 3,000-person Hyderabad GCC for Goodyear; no primary source named."
+    },
+    {
+     "url": "https://www.hrkatha.com/news/techmahindra-to-hire-3000-employees-for-new-gcc-in-hyderabad/",
+     "publisher": "HR Katha",
+     "published": "2025-02",
+     "origin": "independent",
+     "supports": "Reports Tech Mahindra setting up a Hyderabad GCC with 3,000 hires to run Goodyear R&D and IT."
+    }
+   ]
+  },
+  {
+   "company": "Storable",
+   "hq": "United States",
+   "sector": "Technology",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2023",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://www.insideselfstorage.com/suppliers-products/self-storage-services-firm-storable-establishes-global-capability-center-in-india",
+     "publisher": "Inside Self-Storage",
+     "published": "2023-05",
+     "origin": "independent",
+     "supports": "Austin-based Storable opened a Hyderabad GCC; consulting firm Zinnov helped set it up."
+    },
+    {
+     "url": "https://zinnov.com/case-studies/talent/enabling-self-storage-technology-leader-storable-to-accelerate-innovation-by-building-a-global-capability-center",
+     "publisher": "Zinnov",
+     "published": "",
+     "origin": "provider",
+     "supports": "Zinnov case study on helping Storable build a global capability centre."
+    }
+   ]
+  },
+  {
+   "company": "Daikin",
+   "hq": "Japan",
+   "sector": "Manufacturing and Automotive",
+   "city": "Gurugram",
+   "state": "Haryana",
+   "status": "announced",
+   "opened": "",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "",
+   "sources": [
+    {
+     "url": "https://allthingstalent.org/daikin-to-employ-700-at-new-global-innovation-hub-in-india/2025/07/24/",
+     "publisher": "All Things Talent",
+     "published": "2025-07",
+     "origin": "independent",
+     "supports": "Daikin's Gurgaon GCC, the Daikin Innovation and Services Hub, is co-developed with EY and will employ nearly 700."
+    },
+    {
+     "url": "https://india.entrepreneur.com/technology/india-witnesses-a-fresh-wave-of-marquee-gcc-setups-and/495843",
+     "publisher": "Entrepreneur India",
+     "published": "2025-08",
+     "origin": "independent",
+     "supports": "Lists Daikin's new India GCC and names EY as collaborator."
+    }
+   ]
+  },
+  {
+   "company": "StarRez",
+   "hq": "",
+   "sector": "Technology",
+   "city": "Hyderabad",
+   "state": "Telangana",
+   "status": "operational",
+   "opened": "2025",
+   "focus": "",
+   "headcount": "",
+   "office": "",
+   "caveat": "The source calls this an innovation hub. Headquarters country is not stated in the source.",
+   "sources": [
+    {
+     "url": "https://www.uniindia.com/starrez-launches-hyderabad-innovation-hub-to-accelerate-global-saas-and-product-innovation/prnewswire/news/3635240.html",
+     "publisher": "UNI India (PRNewswire release)",
+     "published": "2025-11",
+     "origin": "company",
+     "supports": "StarRez launched a Hyderabad innovation hub conceptualised and developed in collaboration with Zinnov."
+    }
+   ]
+  }
+ ],
+ "engagements": [
+  {
+   "company": "Carlsberg",
+   "city": "Gurugram",
+   "provider": "GSPANN",
+   "providerType": "IT services firm",
+   "role": "build-operate",
+   "sources": [
+    {
+     "url": "https://carlsberggroup.com/newsroom/carlsberg-group-launches-its-first-ever-it-global-capability-centre-in-gurugram",
+     "publisher": "Carlsberg Group",
+     "published": "2025-09",
+     "origin": "company",
+     "supports": "Carlsberg launched its first IT GCC in Gurugram with GSPANN under a build-operate model; 300-plus professionals in phase 1."
+    },
+    {
+     "url": "https://www.outlookbusiness.com/corporate/carlsberg-group-launches-its-first-ever-it-gcc-in-gurugram",
+     "publisher": "Outlook Business (PTI)",
+     "published": "2025-09",
+     "origin": "independent",
+     "supports": "Carlsberg launched its first IT GCC in Gurugram on 3 September 2025; GSPANN manages operations and talent ramp-up."
+    }
+   ]
+  },
+  {
+   "company": "Abercrombie & Fitch",
+   "city": "Bengaluru",
+   "provider": "ANSR",
+   "providerType": "GCC setup partner",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://m.thewire.in/article/ptiprnews/abercrombie-fitch-co-opens-global-capability-center-in-bengaluru-to-support-continued-global-growth-and-strengthen-enterprise-capabilities",
+     "publisher": "Abercrombie & Fitch press release (PRNewswire via PTI/The Wire)",
+     "published": "2026-08",
+     "origin": "company",
+     "supports": "A&F says it recently opened a Bengaluru GCC to build enterprise capabilities, with ANSR advising on set-up and scaling."
+    },
+    {
+     "url": "https://briefglance.com/articles/beyond-the-moose-af-reengineers-its-core-in-bengaluru",
+     "publisher": "BriefGlance",
+     "published": "2026-08",
+     "origin": "independent",
+     "supports": "Article on A&F's newly opened Bengaluru GCC, built with ANSR, covering data, AI personalisation, digital engineering and supply-chain analytics."
+    }
+   ]
+  },
+  {
+   "company": "CIBC",
+   "city": "Hyderabad",
+   "provider": "ANSR",
+   "providerType": "GCC setup partner",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://news.outsourceaccelerator.com/canadas-cibc-nestle-hyderabad/",
+     "publisher": "Outsource Accelerator",
+     "published": "2026-06",
+     "origin": "independent",
+     "supports": "CIBC's first India GCC targets a July 2026 launch in Hyderabad with 2,000-plus staff, built through ANSR."
+    }
+   ]
+  },
+  {
+   "company": "NTT DATA Business Solutions",
+   "city": "Visakhapatnam",
+   "provider": "Proven Tech",
+   "providerType": "IT services firm",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://www.cxodigitalpulse.com/?p=57923",
+     "publisher": "CXO Digital Pulse",
+     "published": "2026-07",
+     "origin": "independent",
+     "supports": "NTT DATA Business Solutions, with Proven Tech, began operations in Visakhapatnam with about 300 professionals, targeting 2,000-3,000."
+    }
+   ]
+  },
+  {
+   "company": "Target",
+   "city": "Bengaluru",
+   "provider": "ANSR",
+   "providerType": "GCC setup partner",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://ansr.com/case-study/retail/stores-supermarket/target/",
+     "publisher": "ANSR",
+     "published": "",
+     "origin": "provider",
+     "supports": "ANSR says it partnered with Target in 2005 to establish the retailer's Bengaluru capability centre."
+    }
+   ]
+  },
+  {
+   "company": "Ferguson",
+   "city": "Bengaluru",
+   "provider": "ANSR",
+   "providerType": "GCC setup partner",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://www.inddist.com/company-expansion-consolidation/news/22943885/ferguson-opens-india-global-capability-center",
+     "publisher": "Industrial Distribution",
+     "published": "2025-06",
+     "origin": "independent",
+     "supports": "Ferguson opened a Bengaluru capability centre built with ANSR and branded as powered by ANSR."
+    },
+    {
+     "url": "https://www.mdm.com/news/top-distributor-sectors/building-materials-construction/ferguson-launches-global-capability-center-in-india-tech-hub/",
+     "publisher": "Modern Distribution Management",
+     "published": "2025-06",
+     "origin": "independent",
+     "supports": "Ferguson launched its Bengaluru centre, built in partnership with GCC specialist ANSR."
+    }
+   ]
+  },
+  {
+   "company": "Marriott International",
+   "city": "Hyderabad",
+   "provider": "ANSR",
+   "providerType": "GCC setup partner",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://www.investmentmonitor.ai/?p=118668",
+     "publisher": "Investment Monitor",
+     "published": "2024-10",
+     "origin": "independent",
+     "supports": "Marriott Tech Accelerator, its Hyderabad GCC, is to be managed by ANSR and fully operational in early 2025."
+    },
+    {
+     "url": "https://ansr.com/press-releases/ansr-to-support-launch-of-marriott-tech-accelerator-a-global-capability-center-in-hyderabad",
+     "publisher": "ANSR",
+     "published": "2024-10",
+     "origin": "provider",
+     "supports": "ANSR announces it will support the launch of Marriott's Hyderabad GCC."
+    }
+   ]
+  },
+  {
+   "company": "Deutsche Börse Group",
+   "city": "Hyderabad",
+   "provider": "ANSR",
+   "providerType": "GCC setup partner",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://www.theweek.in/wire-updates/business/2025/08/21/dcm32-ansr.html",
+     "publisher": "The Week (PTI / PRNewswire release)",
+     "published": "2025-08",
+     "origin": "company",
+     "supports": "Deutsche Börse inaugurated a Hyderabad GCC office and is partnering with ANSR to establish and scale it."
+    }
+   ]
+  },
+  {
+   "company": "Inovalon",
+   "city": "Hyderabad",
+   "provider": "ANSR",
+   "providerType": "GCC setup partner",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://cxotoday.com/press-release/inovalon-expands-global-reach-with-opening-of-india-development-center-in-hyderabad/",
+     "publisher": "CXOToday (press release)",
+     "published": "2022-09",
+     "origin": "company",
+     "supports": "Inovalon opened an India Development Center in Hyderabad that ANSR helped set up."
+    }
+   ]
+  },
+  {
+   "company": "Nestlé",
+   "city": "Hyderabad",
+   "provider": "Genpact",
+   "providerType": "IT services firm",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://www.cxodigitalpulse.com/nestle-business-services-to-launch-first-india-gcc-in-hyderabad-with-genpact/",
+     "publisher": "CXO Digitalpulse",
+     "published": "2026-07",
+     "origin": "independent",
+     "supports": "Nestlé's business services arm plans its first India GCC in Hyderabad this year, in partnership with Genpact."
+    },
+    {
+     "url": "https://www.techmarketview.com/ukhotviews/archive/2026/07/15/genpact-lands-nestl-gcc-partnership",
+     "publisher": "TechMarketView",
+     "published": "2026-07",
+     "origin": "independent",
+     "supports": "Analyst note headline reports Genpact winning a GCC partnership with Nestlé."
+    },
+    {
+     "url": "https://media.genpact.com/2026-07-09-Genpact-Partners-with-Nestle-Business-Solutions-to-Establish-New-Global-Capability-Center?asPDF=1",
+     "publisher": "Genpact",
+     "published": "2026-07",
+     "origin": "provider",
+     "supports": "Genpact says it is partnering with Nestlé Business Solutions to establish a new GCC based in Hyderabad."
+    }
+   ]
+  },
+  {
+   "company": "Western Union",
+   "city": "Hyderabad",
+   "provider": "HCLTech",
+   "providerType": "IT services firm",
+   "role": "build-operate",
+   "sources": [
+    {
+     "url": "https://deccanchronicle.com/southern-states/telangana/western-union-to-open-hyderabad-gcc-1923335",
+     "publisher": "Deccan Chronicle",
+     "published": "2025-12",
+     "origin": "independent",
+     "supports": "Western Union's Hyderabad centre, its second in India, is being developed with HCLTech on a build-operate-transfer model."
+    },
+    {
+     "url": "https://www.deccanchronicle.com/business/companies/western-union-hcltech-expand-global-capability-center-to-hyderabad-1933291",
+     "publisher": "Deccan Chronicle",
+     "published": "2026-01",
+     "origin": "independent",
+     "supports": "Western Union launched the Hyderabad GCC in collaboration with HCLTech, alongside its existing Pune tech centre."
+    },
+    {
+     "url": "https://www.hcltech.com/press-releases/western-union-and-hcltech-expand-global-capability-center-hyderabad-accelerating",
+     "publisher": "HCLTech",
+     "published": "2026-01",
+     "origin": "provider",
+     "supports": "HCLTech and Western Union announce the Hyderabad GCC as a strategic partnership using HCLTech AI solutions."
+    }
+   ]
+  },
+  {
+   "company": "GI Outsourcing",
+   "city": "Hyderabad",
+   "provider": "Enablr",
+   "providerType": "GCC setup partner",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://www.accountancytoday.co.uk/2026/02/04/new-ai-first-centre-strengthens-gi-outsourcings-india-footprint/",
+     "publisher": "Accountancy Today",
+     "published": "2026-02",
+     "origin": "independent",
+     "supports": "GI Outsourcing opened a Hyderabad GCC at International Tech Park; Covasant's Enablr partnered on the setup."
+    },
+    {
+     "url": "https://www.internationalaccountingbulletin.com/news/gi-outsourcing-opens-global/",
+     "publisher": "International Accounting Bulletin",
+     "published": "2026-02",
+     "origin": "independent",
+     "supports": "Enablr helped GI Outsourcing take its Hyderabad centre from planning to operation."
+    }
+   ]
+  },
+  {
+   "company": "Truist Financial",
+   "city": "Hyderabad",
+   "provider": "Infosys",
+   "providerType": "IT services firm",
+   "role": "build-operate",
+   "sources": [
+    {
+     "url": "https://www.outlookbusiness.com/corporate/infosys-bags-500-mn-truist-deal-for-hyderabad-gcc-it-wont-own",
+     "publisher": "Outlook Business",
+     "published": "2026-04",
+     "origin": "independent",
+     "supports": "Infosys will set up and run a Hyderabad GCC for Truist for five years, then transfer it; deal reported above $500 million."
+    },
+    {
+     "url": "https://www.peoplematters.in/news/business/infosys-lands-dollar500-million-gcc-deal-to-hire-4500-employees-in-hyderabad-49557",
+     "publisher": "People Matters",
+     "published": "2026-05",
+     "origin": "independent",
+     "supports": "Infosys builds and operates Truist's Hyderabad centre before handing over; about 4,500 staff planned over time."
+    }
+   ]
+  },
+  {
+   "company": "Lufthansa Group",
+   "city": "Bengaluru",
+   "provider": "Infosys",
+   "providerType": "IT services firm",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://www.angelone.in/news/stocks-share-market/infosys-lufthansa-group-partner-to-launch-gcc-in-bengaluru-for-aviation-technology",
+     "publisher": "Angel One",
+     "published": "2025-02",
+     "origin": "independent",
+     "supports": "Infosys and Lufthansa Systems are establishing a GCC in Bengaluru for aviation software and product development."
+    },
+    {
+     "url": "https://cwv.yourstory.com/enterprise-story/2025/02/infosys-lufthansa-group-to-set-up-gcc-in-bengaluru",
+     "publisher": "YourStory",
+     "published": "2025-02",
+     "origin": "independent",
+     "supports": "Headline reports Infosys and Lufthansa Group setting up a GCC in Bengaluru."
+    }
+   ]
+  },
+  {
+   "company": "Polestar",
+   "city": "Bengaluru",
+   "provider": "Infosys",
+   "providerType": "IT services firm",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://verdict.co.uk/?p=378696",
+     "publisher": "Verdict",
+     "published": "2024-09",
+     "origin": "independent",
+     "supports": "Infosys and Polestar are setting up a dedicated technology hub in Bengaluru for EV software development."
+    },
+    {
+     "url": "https://india.entrepreneur.com/?p=81786",
+     "publisher": "Entrepreneur India",
+     "published": "2025-05",
+     "origin": "independent",
+     "supports": "Lists Infosys-Polestar Bengaluru hub among dedicated client tech hubs set up by IT services firms."
+    }
+   ]
+  },
+  {
+   "company": "Citizens Financial Group",
+   "city": "Hyderabad",
+   "provider": "Cognizant",
+   "providerType": "IT services firm",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://www.outlookbusiness.com/corporate/citizens-financial-group-launches-hyderabad-gcc-in-partnership-with-cognizant",
+     "publisher": "Outlook Business",
+     "published": "2025-04",
+     "origin": "independent",
+     "supports": "Citizens launched a Hyderabad GCC with Cognizant, housed on Cognizant's campus, targeting 1,000 staff by March 2026."
+    },
+    {
+     "url": "https://analyticsindiamag.com/ai-news-updates/citizens-financial-expands-to-india-with-hyderabad-gcc-in-partnership-with-cognizant",
+     "publisher": "Analytics India Magazine",
+     "published": "",
+     "origin": "independent",
+     "supports": "Headline reports Citizens Financial entering India with a Hyderabad GCC in partnership with Cognizant."
+    },
+    {
+     "url": "https://news.cognizant.com/Citizens-Financial-Group-Partners-with-Cognizant-to-Open-Global-Capability-Center-in-Hyderabad",
+     "publisher": "Cognizant",
+     "published": "2025-04",
+     "origin": "provider",
+     "supports": "Cognizant will build and operate the Citizens GCC in Hyderabad; BCG provides programme governance."
+    }
+   ]
+  },
+  {
+   "company": "Goodyear",
+   "city": "Hyderabad",
+   "provider": "Tech Mahindra",
+   "providerType": "IT services firm",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://techstory.in/tech-mahindra-to-build-3000-strong-gcc-for-goodyear-in-hyderabad/",
+     "publisher": "TechStory",
+     "published": "2025-02",
+     "origin": "independent",
+     "supports": "Reports Tech Mahindra will establish and run a roughly 3,000-person Hyderabad GCC for Goodyear; no primary source named."
+    },
+    {
+     "url": "https://www.hrkatha.com/news/techmahindra-to-hire-3000-employees-for-new-gcc-in-hyderabad/",
+     "publisher": "HR Katha",
+     "published": "2025-02",
+     "origin": "independent",
+     "supports": "Reports Tech Mahindra setting up a Hyderabad GCC with 3,000 hires to run Goodyear R&D and IT."
+    }
+   ]
+  },
+  {
+   "company": "Storable",
+   "city": "Hyderabad",
+   "provider": "Zinnov",
+   "providerType": "Consulting firm",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://www.insideselfstorage.com/suppliers-products/self-storage-services-firm-storable-establishes-global-capability-center-in-india",
+     "publisher": "Inside Self-Storage",
+     "published": "2023-05",
+     "origin": "independent",
+     "supports": "Austin-based Storable opened a Hyderabad GCC; consulting firm Zinnov helped set it up."
+    },
+    {
+     "url": "https://zinnov.com/case-studies/talent/enabling-self-storage-technology-leader-storable-to-accelerate-innovation-by-building-a-global-capability-center",
+     "publisher": "Zinnov",
+     "published": "",
+     "origin": "provider",
+     "supports": "Zinnov case study on helping Storable build a global capability centre."
+    }
+   ]
+  },
+  {
+   "company": "Daikin",
+   "city": "Gurugram",
+   "provider": "EY",
+   "providerType": "Consulting firm",
+   "role": "advisory",
+   "sources": [
+    {
+     "url": "https://allthingstalent.org/daikin-to-employ-700-at-new-global-innovation-hub-in-india/2025/07/24/",
+     "publisher": "All Things Talent",
+     "published": "2025-07",
+     "origin": "independent",
+     "supports": "Daikin's Gurgaon GCC, the Daikin Innovation and Services Hub, is co-developed with EY and will employ nearly 700."
+    },
+    {
+     "url": "https://india.entrepreneur.com/technology/india-witnesses-a-fresh-wave-of-marquee-gcc-setups-and/495843",
+     "publisher": "Entrepreneur India",
+     "published": "2025-08",
+     "origin": "independent",
+     "supports": "Lists Daikin's new India GCC and names EY as collaborator."
+    }
+   ]
+  },
+  {
+   "company": "Target",
+   "city": "Bengaluru",
+   "provider": "Embassy Office Parks REIT",
+   "providerType": "Workspace provider",
+   "role": "workspace",
+   "sources": [
+    {
+     "url": "https://www.constructionworld.in/latest-construction-news/real-estate-news/target-india-signs-rs12.5-bn-bengaluru-office-lease-for-gcc-expansion/93525",
+     "publisher": "Construction World",
+     "published": "2026-06",
+     "origin": "independent",
+     "supports": "Target India leased about 831,000 sq ft at Embassy Manyata Business Park from Embassy REIT for ten years for GCC expansion."
+    },
+    {
+     "url": "https://askfuzz.ai/discover/news/real-estate/embassy-reit-secures-1-250-cr-target-lease-deal",
+     "publisher": "AskFuzz",
+     "published": "",
+     "origin": "independent",
+     "supports": "Headline reports Embassy REIT securing a Rs 1,250 crore lease deal with Target."
+    }
+   ]
+  },
+  {
+   "company": "StarRez",
+   "city": "Hyderabad",
+   "provider": "Zinnov",
+   "providerType": "Consulting firm",
+   "role": "setup",
+   "sources": [
+    {
+     "url": "https://www.uniindia.com/starrez-launches-hyderabad-innovation-hub-to-accelerate-global-saas-and-product-innovation/prnewswire/news/3635240.html",
+     "publisher": "UNI India (PRNewswire release)",
+     "published": "2025-11",
+     "origin": "company",
+     "supports": "StarRez launched a Hyderabad innovation hub conceptualised and developed in collaboration with Zinnov."
+    }
+   ]
+  }
+ ]
+}
